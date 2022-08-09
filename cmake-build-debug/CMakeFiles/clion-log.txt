@@ -1,0 +1,15 @@
+"D:\Clion\CLion 2022.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Clion/CLion 2022.1/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\Administrator\CLionProjects\leetcode -B C:\Users\Administrator\CLionProjects\leetcode\cmake-build-debug
+    -- src/CowString.cpp will be compiled to bin/CowString
+    -- src/Day7_WordFrequence.cpp will be compiled to bin/Day7_WordFrequence
+    -- src/Singleton.cpp will be compiled to bin/Singleton
+    -- src/t.cpp will be compiled to bin/t
+    -- src/t2.cpp will be compiled to bin/t2
+    -- src/test.cpp will be compiled to bin/test
+    -- src/testlearn.cpp will be compiled to bin/testlearn
+    -- src/testleetcode.cpp will be compiled to bin/testleetcode
+    -- src/time.cpp will be compiled to bin/time
+    -- src/chapter10.cpp will be compiled to bin/chapter10
+    -- src/chapter9.cpp will be compiled to bin/chapter9
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Administrator/CLionProjects/leetcode/cmake-build-debug
