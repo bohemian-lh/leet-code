@@ -1,7 +1,6 @@
 C:/Users/Administrator/CLionProjects/leet-code/cmake-build-debug/CMakeFiles/code-lib.dir
-C:/Users/Administrator/CLionProjects/leet-code/cmake-build-debug/CMakeFiles/CowString.dir
-C:/Users/Administrator/CLionProjects/leet-code/cmake-build-debug/CMakeFiles/Day7_WordFrequence.dir
-C:/Users/Administrator/CLionProjects/leet-code/cmake-build-debug/CMakeFiles/Singleton.dir
+C:/Users/Administrator/CLionProjects/leet-code/cmake-build-debug/CMakeFiles/classic-lib.dir
+C:/Users/Administrator/CLionProjects/leet-code/cmake-build-debug/CMakeFiles/lea.dir
 C:/Users/Administrator/CLionProjects/leet-code/cmake-build-debug/CMakeFiles/t.dir
 C:/Users/Administrator/CLionProjects/leet-code/cmake-build-debug/CMakeFiles/t2.dir
 C:/Users/Administrator/CLionProjects/leet-code/cmake-build-debug/CMakeFiles/test.dir
