@@ -52,4 +52,9 @@ class Solution_206{
 public:
     static ListNode* reverseList(ListNode *head);
 };
+
+class Solution_1002{
+public:
+    static vector<string> commonChars(vector<string>& words);
+};
 #endif //LEETCODE_M_H
